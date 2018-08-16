@@ -1,6 +1,6 @@
-name="i hate u"
+full_name="i hate u"
 count=0
-for i in name:
-       if i==" ":
+for m in full_name:
+       if m==" ":
 	  count=count+1
 print count	  	
