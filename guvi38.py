@@ -1,5 +1,5 @@
-a=raw_input()
-b=raw_input()
+a=10
+b=20
 temp=a
 a=b
 b=temp
