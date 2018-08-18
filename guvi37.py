@@ -1,6 +1,6 @@
-x=raw_input()
-y=raw_input()
-num1=int(x)
-num2=int(y)
+n=raw_input()
+m=raw_input()
+num1=int(n)
+num2=int(m)
 num1,num2=num2,num1
 print num1,num2
