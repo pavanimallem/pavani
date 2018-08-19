@@ -12,4 +12,4 @@ else:
 	  term=a+b
 	  a=b
 	  b=term
-	  count+=1
+	  count +=1
